@@ -1,0 +1,28 @@
+Pagina web de personal portfolio
+
+Descripcion
+Edad: 22 años
+Localidad: Montevideo, Uruguay
+
+Courses, previous jobs and experience
+Trabajos previos:
+  -Bachillerato aprovado
+  -Mecanica automotriz(Vladimir Kaitazoff SA)
+Cursos
+  -UTU: (2 años de Mecanica automotriz)
+  -Analista Genexus (revisar fecha)
+  -Ingles(First Certificate Nacional, agregar foto)
+  -ORT: Actualmente cursando tercer semestre de Licenciatura en sistemas
+  -Coursera: Web dev, Python 3, Django
+  -Curso microsoft
+
+Hobbies
+  -Guitarra(hace tiempo)
+  -Gimnasio
+  -Learning new things
+  -Car Racing( and fixing it when it breaks
+
+Version en español y en ingles??
+  -{Display: none;} para cambiar idioma?
+
+Agregar fotos mias y de mis Hobbies
